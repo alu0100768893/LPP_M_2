@@ -1,5 +1,5 @@
-require '../lib/complejo1.rb'
-require '../lib/complejo2.rb'
+require 'lib/complejo1.rb'
+require 'lib/complejo2.rb'
 require 'test/unit'
 
 class TestComplejo < Test::Unit::TestCase
