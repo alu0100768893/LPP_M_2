@@ -2,7 +2,7 @@ class Complejos
 
 	attr_reader :re, :im
 
-	def initializate(re,im)
+	def initialize(re,im)
 		@re,@im = re,im
 	end
 
